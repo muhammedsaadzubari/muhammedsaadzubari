@@ -20,6 +20,7 @@
         <ul>
             <li>🔭 I’m currently working on <a href="https://github.com/muhammedsaadzubari/typescript_and_nodejs_projects">TypeScript and NodeJs projects</a></li>
             <li>🌱 I’m currently learning TypeScript and JavaScript.</li>
+            <li>🏫 I’m presently enrolled in Currently enrolled in Governor Initiative For Artificial Intelligence and Computing (GIAIC) program.</li>
             <li>👨‍💻 All of my profiles are available at <a href="https://linktr.ee/muhammedsaadzubari">https://linktr.ee/muhammedsaadzubari</a></li>
             <li>📫 How to reach me <a href="mailto:muhammedsaadzubari@gmail.com">muhammedsaadzubari@gmail.com</a></li>
             <li>💬 Ask me about TypeScript, JavaScript etc⚡</li>
