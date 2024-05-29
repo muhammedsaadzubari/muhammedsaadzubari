@@ -14,7 +14,6 @@
     <br>
     <hr>
     <div>
-        <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedsaadzubari" /> </p>
         <hr>
         <h1> 💫 About Me:</h1> 
         <ul>
@@ -63,6 +62,15 @@
     <div>
         <h1> 🔝 Top Contributed Repo:</h1>
         <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-contributor-stats.vercel.app/api?username=muhammedsaadzubari&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="muhammedsaadzubari" /></a> </p>
+    </div>
+    <hr>
+    <div>
+        <h1> ✍️ Random Dev Quote</h1>
+        <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="randomdevquote" /></a> </p>
+    </div>
+    <hr>
+    <div>
+        <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedsaadzubari" /> </p>
     </div>
     <hr>
 </body>
