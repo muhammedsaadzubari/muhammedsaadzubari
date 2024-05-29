@@ -58,5 +58,10 @@
         <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsaadzubari" alt="muhammedsaadzubari" /></a> </p>
     </div>
     <hr>
+    <div>
+        <h1> 🔝 Top Contributed Repo:</h1>
+        <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-contributor-stats.vercel.app/api?username=muhammedsaadzubari&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="muhammedsaadzubari" /></a> </p>
+    </div>
+    <hr>
 </body>
 </html>
