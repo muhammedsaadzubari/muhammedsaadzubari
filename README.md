@@ -76,7 +76,7 @@
     <hr>
     <hr>
     <div>
-        <p><img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/></p>
+        <p><a href="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/output/github-contribution-grid-snake.gif"><img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/></a></p>
     </div>
 </body>
 </html>
