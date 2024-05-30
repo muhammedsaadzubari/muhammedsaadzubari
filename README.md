@@ -74,6 +74,11 @@
         <p align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="randomdevquote" /></a> </p>
     </div>
     <hr>
+    <div>
+        <h1> 😂 Random Dev Meme</h1>
+        <p align="center"><img src='https://memer-new.vercel.app/' style="height: 400px;" alt="randomdevquote" /></a> </p>
+    </div>
+    <hr>
     <hr>
     <div>
         <p align="center">
