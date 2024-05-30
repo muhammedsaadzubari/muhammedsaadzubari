@@ -1,3 +1,4 @@
+<html>
 <body>
     <div align="center">
         <img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/main/Screenshot%202024-05-19%20222724.png" alt="logo">
@@ -36,31 +37,31 @@
     <div>
         <h1> 💻 Languages and Tools:</h1>
         <p align="center">
-            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-            <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-            <img src="https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD" alt="Nodemon">
-            <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-            <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+            <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,vscode&perline=6">
         </p>
     </div>
     <hr>
     <div>
         <h1> 📊 GitHub Stats:</h1>
         <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaadzubari&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsaadzubari&theme=dark&hide_border=false" alt="GitHub Streak Stats"><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaadzubari&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api?username=muhammedsaadzubari&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"><br/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedsaadzubari&theme=highcontrast&hide_border=false" alt="GitHub Streak Stats">
     </div>
     </div>
     <hr>
     <div>
         <h1> 🏆 GitHub Trophies:</h1>
-        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsaadzubari" alt="muhammedsaadzubari" /></a> </p>
+        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muhammedsaadzubari&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews,Experience&theme=onedark" alt="trophy" /></a> </p>
+    </div>
+    <hr>
+    <div>
+        <h1> ↖️ Most Used Languages:</h1>
+        <p align="center"> <a href="https://github.com/Gurupreet"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedsaadzubari&theme=blue-green&hide_langs_below=1" alt="muhammedsaadzubari" /></a> </p>
     </div>
     <hr>
     <div>
         <h1> 🔝 Top Contributed Repo:</h1>
-        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-contributor-stats.vercel.app/api?username=muhammedsaadzubari&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="muhammedsaadzubari" /></a> </p>
+        <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-contributor-stats.vercel.app/api?username=muhammedsaadzubari&limit=5&theme=blue-green&combine_all_yearly_contributions=true" alt="muhammedsaadzubari" /></a> </p>
     </div>
     <hr>
     <div>
