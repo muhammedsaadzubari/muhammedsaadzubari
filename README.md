@@ -76,7 +76,7 @@
     <hr>
     <hr>
     <div>
-        <p><img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/output/github-contribution-grid-snake.gif" alt="randomdevquote" /></p>
+        <p><img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/output/github-contribution-grid-snake.gif" alt="snake gif"/></p>
     </div>
 </body>
 </html>
