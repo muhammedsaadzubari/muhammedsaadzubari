@@ -75,8 +75,5 @@
     </div>
     <hr>
     <hr>
-    <div>
-        <p><img src="https://raw.githubusercontent.com/{muhammedsaadzubari}/{muhammedsaadzubari}/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
-        </div>
 </body>
 </html>
