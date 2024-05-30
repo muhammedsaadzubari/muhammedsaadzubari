@@ -1,4 +1,3 @@
-</head>
 <body>
     <div align="center">
         <img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/main/Screenshot%202024-05-19%20222724.png" alt="logo">
@@ -70,7 +69,7 @@
     </div>
     <hr>
     <div>
-        <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=flat" alt="muhammedsaadzubari" /> </p>
+        <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="muhammedsaadzubari" /> </p>
     </div>
     <hr>
 </body>
