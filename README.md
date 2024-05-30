@@ -76,9 +76,7 @@
     <hr>
     <hr>
     <div>
-        <p align="center">
-        <img width="1000" src="asset/github-snake.svg" alt="snake"/>
-        </p>
-    </div>
+        <p><img src="https://raw.githubusercontent.com/{muhammedsaadzubari}/{muhammedsaadzubari}/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /></p>
+        </div>
 </body>
 </html>
