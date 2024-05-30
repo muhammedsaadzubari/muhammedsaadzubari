@@ -13,8 +13,13 @@
     </div>
     <br>
     <hr>
+    <div align="center">
+        <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+         <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/muhammedsaadzubari?color=0e75b6&style=for-the-badge&logo=person-add&label=Follow"/></a>
+</p>
+    </div>
+    <hr>
     <div>
-        <hr>
         <h1> 💫 About Me:</h1> 
         <ul>
             <li>🔭 I’m currently working on <a href="https://github.com/muhammedsaadzubari/typescript_and_nodejs_projects">TypeScript and NodeJs projects</a></li>
@@ -69,9 +74,6 @@
         <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="randomdevquote" /></a> </p>
     </div>
     <hr>
-    <div align="center">
-        <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="muhammedsaadzubari" /> </p>
-    </div>
     <hr>
 </body>
 </html>
