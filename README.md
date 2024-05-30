@@ -29,7 +29,7 @@
     <div>
         <h1> 🌐 Socials:</h1>
         <a href="https://linkedin.com/in/muhammad-saad-54539830a">
-            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
         </a>
     </div>
     <hr>
@@ -68,7 +68,7 @@
         <p><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="randomdevquote" /></a> </p>
     </div>
     <hr>
-    <div>
+    <div align="center">
         <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="muhammedsaadzubari" /> </p>
     </div>
     <hr>
