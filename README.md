@@ -7,12 +7,6 @@
         <hr>
         <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Algerian&weight=200&size=30&pause=1000&center=true&vCenter=true&random=false&width=1300&height=55&lines=%E2%9C%A8Hey!+I+am+Muhammed+Saad+Zubari%E2%9C%A8;%E2%9C%A8Passionate+Web+Development+Student%E2%9C%A8;%E2%9C%A8Currently+enrolled+in+Governor+Initiative+For+AI+%26+Computing+(GIAIC)+program.%E2%9C%A8" alt="Typing SVG" /></a>
         </h1>
-    </div>
-    <div align="center">
-        <img src="https://camo.githubusercontent.com/8a9c7f854df987a0b488caf7b4ca6fb56e368e1a0b85602574da94c19d1c2d2e/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" alt="coding" width="800">
-    </div>
-    <br>
-    <hr>
     <div align="center">
         <p> <img src="https://komarev.com/ghpvc/?username=muhammedsaadzubari&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
          <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/muhammedsaadzubari?color=0e75b6&style=for-the-badge&logo=person-add&label=Follow"/></a>
