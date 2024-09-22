@@ -1,7 +1,7 @@
-<html>
+![image](https://github.com/user-attachments/assets/20106147-40fc-4441-9fdf-e3e212b184b9)![image](https://github.com/user-attachments/assets/97f0aaf9-5760-4e12-a002-4314e33c85a5)<html>
 <body>
     <div align="center">
-        <img src="https://github.com/muhammedsaadzubari/muhammedsaadzubari/blob/main/Screenshot%202024-05-19%20222724.png" alt="logo">
+        <img src="Black Minimalist Motivation Quote LinkedIn Banner.png" alt="logo">
         <h1>Hi 👋, I'm Muhammed Saad</h1>
         <h3>Passionate Web Development Student. Currently enrolled in Governor Initiative For Artificial Intelligence and Computing (GIAIC).</h3>
         <hr>
