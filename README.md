@@ -35,7 +35,7 @@
     <div>
         <h1> 💻 Languages and Tools:</h1>
         <p align="center">
-            <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,vscode&perline=6">
+            <img src="https://skillicons.dev/icons?i=ts,js,nodejs,git,github,vscode,html,css,react,next&perline=10">
         </p>
     </div>
     <hr>
